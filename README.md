@@ -1,2 +1,2 @@
 # Atividade-01
-atividades da disciplina de web1
+atividade da disciplina de web1
